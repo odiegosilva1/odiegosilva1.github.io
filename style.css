@@ -1,0 +1,15 @@
+html, body {
+    background: oldlace;
+    border: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: honeydew;
+    text-align: center;
+
+}
+.cabecalho {
+    background: grey;
+    
+}
