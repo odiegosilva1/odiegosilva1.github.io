@@ -13,6 +13,7 @@
     padding: 30px;
     text-align: center;
     font-size: 35px;
+    display: inline;
   }
   
   /* The grid container */
@@ -53,7 +54,7 @@
     background-color: #1b1b1ada;
     padding: 10px;
     text-align: center;
-    
+
   }
   
   /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
