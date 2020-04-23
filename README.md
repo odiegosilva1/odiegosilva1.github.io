@@ -1,2 +1,2 @@
 ## odiegosilva1.github.io
-### My web page on :octacat:
+### My web page on :us:
