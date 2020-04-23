@@ -8,12 +8,12 @@ html, body {
 h1 {
     color: honeydew;
     text-align: center;
-    font-size: large;
+    font-size: 25px;
 
 }
 .cabecalho {
     background: grey;
-    width: auto;
+    width: max-content;
     height: auto;
     
 }
