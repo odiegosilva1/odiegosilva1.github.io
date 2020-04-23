@@ -13,7 +13,7 @@
     padding: 30px;
     text-align: center;
     font-size: 35px;
-    display: inline;
+    display: inline-flexbox;
   }
   
   /* The grid container */
