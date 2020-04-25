@@ -3,28 +3,57 @@
 #header {
     background: oldlace;
     text-align: center;
+    margin: 25px;
+    padding: 5px;
     
 }
 
 
-h1, h3 {
+h1 {
+    max-width: 480px;
+    text-align: center;
+    margin: 12px auto;
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1::after {
+    content: '|';
+    opacity: 1;
+    margin-left: 5px;
+    display: inline-block;
+    animation: blink .7s infinite;
+  }
+
+  @keyframes blink {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
 
 
 
  .fa {
-    padding: 20px;
-    font-size: 20px;
-    width: 50px;
+    padding: 15px;
+    font-size: 35px;
+    width: 60px;
     text-align: center;
     text-decoration: none;
-    margin: 5px 5px;
+    margin: 2px 2px;
   }
   
   .fa:hover {
       opacity: 0.7;
   }
+    
+   .fa-github {
+    background: rgb(25, 28, 31);
+    color: white;
+
+   }
+
   
   .fa-facebook {
     background: #3B5998;
@@ -71,3 +100,6 @@ h1, h3 {
     background: #ff6600;
     color: white;
   }
+
+
+  
