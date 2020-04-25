@@ -1,0 +1,10 @@
+html, body {
+    background: oldlace;
+    padding: 0px;
+    bottom: 0px;
+}
+
+#header {
+    background: orange;
+    text-align: center;
+}
