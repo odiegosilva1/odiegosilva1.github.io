@@ -1,14 +1,16 @@
-
+html {
+  background: #030;
+}
 
 #header {
-    background: oldlace;
+    background: grey;
     text-align: center;
     margin: 25px;
     padding: 5px
 }
 
 #resume {
-  background: oldlace;
+  background: grey;
     text-align: center;
     margin: 25px;
     padding: 5px
