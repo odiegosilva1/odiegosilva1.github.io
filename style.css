@@ -1,16 +1,16 @@
 html {
-  background: #030300;
+  background: #141412;
 }
 
 #header {
-    background: grey;
+    background: rgb(80, 58, 58);
     text-align: center;
     margin: 25px;
     padding: 5px
 }
 
 #resume {
-  background: grey;
+  background: rgb(80, 58, 58);
     text-align: center;
     margin: 25px;
     padding: 5px
