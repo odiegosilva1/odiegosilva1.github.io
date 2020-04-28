@@ -9,7 +9,12 @@
 
 #resume, h3 {
   max-width: 200px;
+  font-size: 20%;
   font-family: 'Courier New', Courier, monospace;
+  background: oldlace;
+  text-align: center;
+  margin: 25px;
+  padding: 5px
 
 
 }
