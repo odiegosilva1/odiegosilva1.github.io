@@ -13,13 +13,13 @@ p, h3, h1 {
   font-family: 'Press Start 2P', Courier, monospace;
 }
 
-h1 {
+/*h1 {
     max-width: 200px;
     text-align: center;
     margin: 12px auto;
     font-family: 'Press Start 2P' Courier, monospace;
     
-}
+}*/
 
 h1::after {
     content: '|';
