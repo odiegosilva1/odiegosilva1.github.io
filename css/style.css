@@ -93,6 +93,7 @@ h1::after {
   .fa-download {
     background: #00aff0;
     color: white;
+    text-decoration: #000;
 
   }
 
