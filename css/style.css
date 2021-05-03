@@ -36,10 +36,10 @@ h1::after {
       opacity: 0;
     }
   }
-  .fa-download {
-    background: #bb0;
+  /**.fa-dowload {
+    background: #bb0000;
     color: white;
-  }
+  }**/
   
   .fa-instagram {
     background: #125688;
