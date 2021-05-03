@@ -90,24 +90,10 @@ h1::after {
     color: white;
   }
   
-  /*.fa-skype {
+  .fa-download {
     background: #00aff0;
     color: white;
-  }
-  
-  .fa-soundcloud {
-    background: #ff5500;
-    color: white;
-  }
-  
-  .fa-reddit {
-    background: #ff5700;
-    color: white;
-  }
-  
-  .fa-rss {
-    background: #ff6600;
-    color: white;
+
   }
 
 
