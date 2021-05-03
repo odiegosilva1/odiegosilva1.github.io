@@ -1,6 +1,11 @@
 #intro{
-    color: #000;
-    background-color: oldlace;
+    background-color: olivedrab;
+}
+
+
+p, h3 {
+    font-size: 20px;
+    text-align: center;
     font-family: 'Press Start 2P', Courier, monospace;
     
-}
+  }
