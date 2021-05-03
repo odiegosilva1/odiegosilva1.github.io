@@ -1,6 +1,6 @@
 
 #header {
-    background: oldlace;
+    background: #007bb5;
     text-align: center;
     margin: 25px;
     padding: 5px
@@ -14,7 +14,7 @@ p, h3 {
 }
 
 h1 {
-    max-width: 400px;
+    max-width: 200px;
     text-align: center;
     margin: 12px auto;
     font-family: 'Press Start 2P' Courier, monospace;
