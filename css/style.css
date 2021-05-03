@@ -7,7 +7,7 @@
 }
 
 
-p, h3, h1 {
+p, h3 {
   font-size: 30px;
   text-align: center;
   font-family: 'Press Start 2P', Courier, monospace;
@@ -15,7 +15,8 @@ p, h3, h1 {
 }
 
 h1 {
-  font-family: 'Press Start 2P', Courier, monospace;
+    font-size: 30px;
+    font-family: 'Press Start 2P', Courier, monospace;
     text-align: center;
     margin: 12px auto;
     
