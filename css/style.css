@@ -6,6 +6,12 @@
     padding: 5px
 }
 
+i .class {
+  background: #125688;
+    color: white;
+
+}
+
 
 p, h3 {
   font-size: 20px;
