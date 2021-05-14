@@ -1,13 +1,14 @@
 
 #header {
-    background: oldlace;
+    background: #000;
     text-align: center;
     margin: 25px;
     padding: 0px
+    
 }
 
 body {
-  background-image: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/source.gif);
+background-image: url(https://media.giphy.com/media/Q9aBxHn9fTqKs/source.gif);
 
 }
 
