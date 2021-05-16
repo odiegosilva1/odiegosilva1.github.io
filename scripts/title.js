@@ -1,5 +1,4 @@
 
-
 function typeWriter (elemento) {
     const textoArray = elemento.innerHTML.split('');
     elemento.innerHTML = '';
@@ -10,3 +9,4 @@ function typeWriter (elemento) {
             
 const título = document.querySelector('h1');
 typeWriter(título);
+
